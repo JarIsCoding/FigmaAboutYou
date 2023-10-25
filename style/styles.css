@@ -4,11 +4,27 @@
 
 .caption {
     position: absolute;
-    top: 45%;
+    top: 10%;
     left: 0;
     width: 100%;
+    color: white;
 }
 .center {
     display: flex;
     justify-content: center;
+}
+.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+.blue {
+    background-color: turquoise;
+    color: white;
+}
+.salmon {
+    background-color: salmon;
+    color: white;
+}
+.pink {
+    background-color: papayawhip;
 }
